@@ -1,15 +1,15 @@
-<div id="header" style="text-align: center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW44ZzFqcGxxdjI5ZHIzNWMxYzlyNjdyMGlxNHRoOHQ1bnQ1cGl2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ftHNle25rthTu19OAd/giphy.gif" />
+<div id="header" align="center">
+    <img src="https://github.com/user-attachments/assets/965e5361-9c81-4eb4-bc6f-a4d0795c8f04" alt="" />
 </div>
-<div id="badges" style="text-align: center;">
+<div id="badges" align="center">
     <a href="http://t.me/danzori">
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
 </div>
-<div id="counter" style="text-align: center; margin-top: 20px;">
+<div id="counter" align="center" style="margin-top: 20px;">
     <img src="https://komarev.com/ghpvc/?username=danzori&style=flat&color=blue" alt="" />
 </div>
-<div id="hello" style="text-align: center;">
+<div id="hello" align="center">
     <h1>
         Hi, I'm Danya
         <img src="https://cdnl.iconscout.com/lottie/premium/thumb/hi-emoji-animation-gif-download-10454293.gif" width="30px"/>    
@@ -18,9 +18,9 @@
 
 ---
 
-<h3 style="text-align: center">:hammer_and_wrench: Tech Stack</h3>
+<h3 align="center">:hammer_and_wrench: Tech Stack</h3>
 
-<div style="text-align: center">
+<div align="center">
   <h4>Languages</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="50" height="50"/>&nbsp;
 
